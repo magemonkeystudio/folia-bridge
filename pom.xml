@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>studio.magemonkey</groupId>
-        <artifactId>genesis-parent</artifactId>
+        <artifactId>magemonkey-parent</artifactId>
         <version>1.21.10-R1</version>
     </parent>
 
